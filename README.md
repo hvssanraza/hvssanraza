@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hvssanraza
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning C++.
-- 📫 Mail me at razah1532@gmail.com
+- 📫 Mail me at codehassanraza@gmail.com
 
 <!---
 hvssanraza/hvssanraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
