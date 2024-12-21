@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hvssanraza
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++, HTML and CSS.
 - 📫 Mail me at codehassanraza@gmail.com
 
 <!---
