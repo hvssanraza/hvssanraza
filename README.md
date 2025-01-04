@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hvssanraza
+- 👋 Hi, I’m Hassan Raza (@hvssanraza)
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning C++, Python, HTML and CSS.
 - 📫 Mail me at codehassanraza@gmail.com
