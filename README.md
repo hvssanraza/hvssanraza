@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassan Raza (@hvssanraza)
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C++, Python, HTML and CSS.
+- 🌱 I’m currently learning C++, Python, HTML, CSS and JavaScript(Js).
 - 📫 Mail me at codehassanraza@gmail.com
 
 <!---
