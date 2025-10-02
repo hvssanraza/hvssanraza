@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **codehassanraza@gmail.com**
 
-- 📄 Know about my experiences [https://hassanraza.tech/](https://hassanraza.tech/experience.html)
+- 📄 Know about my experiences [https://hassanraza.tech/](https://hassanraza.tech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
