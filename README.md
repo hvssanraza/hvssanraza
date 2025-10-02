@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Flutter, JS.**
 
-- 👨‍💻 All of my projects are available at [https://hassanraza.tech/](https://hassanraza.tech/projects.html)
+- 👨‍💻 All of my projects are available at [https://hassanraza.tech/projects](https://hassanraza.tech/projects.html)
 
-- 📝 I regularly write articles on [https://hassanraza.tech/blog.html](https://hassanraza.tech/blog.html)
+- 📝 I regularly write articles on [https://hassanraza.tech/blogs](https://hassanraza.tech/blog.html)
 
 - 📫 How to reach me **codehassanraza@gmail.com**
 
