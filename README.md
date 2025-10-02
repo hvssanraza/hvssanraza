@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Flutter, JS.**
 
-- 👨‍💻 All of my projects are available at [https://hassanraza.tech/](https://hassanraza.tech/)
+- 👨‍💻 All of my projects are available at [https://hassanraza.tech/](https://hassanraza.tech/projects.html)
 
 - 📝 I regularly write articles on [https://hassanraza.tech/blog.html](https://hassanraza.tech/blog.html)
 
 - 📫 How to reach me **codehassanraza@gmail.com**
 
-- 📄 Know about my experiences [https://hassanraza.tech/](https://hassanraza.tech/)
+- 📄 Know about my experiences [https://hassanraza.tech/](https://hassanraza.tech/experiences.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
