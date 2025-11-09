@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Raza</h1>
-<h3 align="center">A tech enthusiast and aspiring AI engineer with a unique blend of creative and technical skills.eloper from India</h3>
+<h3 align="center">A passionate tech enthusiast, developer, and aspiring AI engineer from Pakistan, blending creativity with technical expertise.</h3>
 
 - 🔭 I’m currently working on [To Do List Application](https://github.com/hvssanraza/To-Do-List-Application)
 
